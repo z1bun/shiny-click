@@ -1,5 +1,3 @@
-docker run -d -p 8080:80 spoonest/clickhouse-tabix-web-client
-
 Создаем таблицу с посещениями пользователей
 
 CREATE TABLE IF NOT EXISTS `visits`  (
